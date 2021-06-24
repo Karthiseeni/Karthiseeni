@@ -1,13 +1,9 @@
-### Hi there 👋
-
+### Hi there 👋 , I'm Karthikeyan - Web Developer
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... web developement
-- 🌱 I’m currently learning ... web developement
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... anything
-- 💬 Ask me about ... ask me anything
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... Iam always busy
+- 🔭 I’m currently working on a [VS Code][websilte]
+- 🌱 I’m currently learning everything
+- 👯 I’m looking to collaborate with other content creators
+- 😄 2021 Goals : Contribute more to Open Source projects
+- ⚡ Fun fact: I am always busy
