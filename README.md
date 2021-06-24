@@ -11,4 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... Iam always busy
+<style>
+  .header{
+    font-size: large;
+  }
+</style>
 
+<h1 class= "header">MY Info</h1>
